@@ -1,0 +1,2 @@
+python MRI.py
+pause
